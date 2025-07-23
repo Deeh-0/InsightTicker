@@ -7,7 +7,7 @@
 - Candlestick and area chart visualizations  
 - 1D to 5Y performance filters  
 - Real-time price change indicators (with green ↑ / red ↓ signals)  
-- 50-day and 20-week moving averages for technical analysis  
+- 50-day moving averages for technical analysis  
 - Clean, responsive UI with dark mode styling  
 
 🔧 **Tech Stack:**
